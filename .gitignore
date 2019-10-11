@@ -1,0 +1,6 @@
+**/game/cache
+**/game/saves
+*.rpyc
+!screens.rpyc
+*errors.txt
+*log.txt
