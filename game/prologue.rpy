@@ -1,6 +1,6 @@
 label prologue_start:
     show text "Prologue" at chapter_fade
-    pause 10
+    pause 8
 
     scene bg dark
 

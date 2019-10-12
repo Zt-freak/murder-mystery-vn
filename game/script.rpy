@@ -7,9 +7,9 @@ define z = Character("???")
 transform chapter_fade:
         xalign 0.5
         yalign 0.5
-        alpha 0.08
-        easeout_back 2 alpha 0.9
-        pause 6
+        alpha 0.0
+        easeout_back 2 alpha 1
+        pause 4
         ease 2 alpha 0.0
 
 label start:
