@@ -4,8 +4,8 @@ A Murder Mystery Visual Novel written in Ren'Py.
 ### writing
 - Connie
 - Mika
+- milkyten [GitHub](https://github.com/milkyten)
 - Mythie
-- Sig [GitHub](https://github.com/milkyten)
 ### illustration
 - Charlie
 - Dian
@@ -15,7 +15,7 @@ A Murder Mystery Visual Novel written in Ren'Py.
 ### programming
 - Apodemus [Twitter](https://twitter.com/ApodemusErectus) • [GitHub](https://github.com/Zt-freak)
 - Dian
-- Sig [GitHub](https://github.com/milkyten)
+- milkyten [GitHub](https://github.com/milkyten)
 ### planning
 - Charlie
 - Connie
