@@ -23,3 +23,7 @@ A Murder Mystery Visual Novel written in Ren'Py.
 - Jocy
 - Mika
 - Mythie
+### testing
+- Amber
+- milkyten [GitHub](https://github.com/milkyten)
+- Apodemus [Twitter](https://twitter.com/ApodemusErectus) • [GitHub](https://github.com/Zt-freak)
