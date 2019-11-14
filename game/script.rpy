@@ -15,7 +15,7 @@ transform chapter_fade:
 label start:
 # The game starts here.
     call prologue_start from prologue
-    call chapter1_start from chapter1
+    call chapter1_start from chapter1 
     # This ends the game.
 
     return
