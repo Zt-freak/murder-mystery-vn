@@ -17,4 +17,4 @@ label start:
     # python:
     # Story labels
     jump prologue_start
-    return # This ends the game.
+    return # This ends the game. #
