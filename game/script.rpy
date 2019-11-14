@@ -1,6 +1,6 @@
 ﻿# The script of the game goes in this file.
 
-# Global variables
+# Global Ren'Py variables
 
 define z = Character("???")
 
