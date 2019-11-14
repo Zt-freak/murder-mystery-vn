@@ -23,4 +23,3 @@ label prologue_start:
     z "I open my door..."
 
     z "It's so dark..." # CHANGE THIS TO CORRUPTED TEXT LIKE IN THE GOOGLE DOC!
-    jump chapter1_start

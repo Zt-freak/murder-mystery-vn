@@ -1,6 +1,7 @@
 ﻿# The script of the game goes in this file.
 
-# Global Ren'Py variables
+# Global variables
+
 define z = Character("???")
 
 transform chapter_fade:
@@ -11,10 +12,10 @@ transform chapter_fade:
         pause 4
         ease 2 alpha 0.0
 
-# The game starts here.
 label start:
-    # Global python variables
-    # python:
-    # Story labels
-    jump prologue_start
-    return # This ends the game.
+# The game starts here.
+    call prologue_start from prologue
+    call chapter1_start from chapter1
+    # This ends the game.
+
+    return
